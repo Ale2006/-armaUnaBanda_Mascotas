@@ -10,10 +10,16 @@ Cómo una persona que perdio a su mascota
 Quiero tener un espacio donde poder publicarlo
 Para llegar a mas personas y poder encontrar a mi mascota
 
+Ana perdio a su mascota. En la pagina tenes una seccion de mascotas perdidas donde dejar todos los datos como nombre del dueño de la mascota, nombre de la mascota, telefono, direccion, mail de contacto, raza, color y fotos de la mascota con una breve reseña de como se perdio o algun detalle en particular
+
+-------------------------------------------------------------------------------
 Cómo una persona que encontro una mascota
 Quiero poder hacerlo publico
 Para que la mascota se reuna con su familia
 
+Carlos, encontro a un perro que parece perdido, quiere poder publicarlo en una pagina para hacerlo publico. En ella, se le pedira un nombre y apellido, telefono de contacto, en que zona lo encontro, raza, color, foto y una reseña del estado o algun detalle para reconocerlo
+
+-------------------------------------------------------------------------------
 Cómo propietario de una mascota que cuida su salud 
 Quiero un lugar donde poder encontrar diferentes especialistas y veterinarias de turno
 Para que en algun caso de emergencia, la informacion, sea de rapido acceso
@@ -27,8 +33,6 @@ Quiero un lugar donde encontrar diferentes servicios
 Para poder confiar en las calificaciones y reseñas de otros usuarios
 
 
-
-Ana perdio a su mascota. En la pagina tenes una seccion de mascotas perdidas donde dejar todos los datos como nombre del dueño de la mascota, nombre de la mascota, telefono, direccion, mail de contacto y fotos de la mascota con una breve reseña de como se perdio o algun detalle en particular
 
 Link para la plantilla del modelo de BBDD
 https://docs.google.com/spreadsheets/d/1FvMGOgJbpSVvbvBB-4zaHg9ocSBKCbbuXUcYCpAh8LY/edit?usp=sharing

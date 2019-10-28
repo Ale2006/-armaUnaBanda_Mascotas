@@ -6,6 +6,28 @@ Como Ana, la protagonista de este User, existen muchas personas conectadas por e
 
 Test:
 
+Cómo una persona que perdio a su mascota 
+Quiero tener un espacio donde poder publicarlo
+Para llegar a mas personas y poder encontrar a mi mascota
+
+Cómo una persona que encontro una mascota
+Quiero poder hacerlo publico
+Para que la mascota se reuna con su familia
+
+Cómo propietario de una mascota que cuida su salud 
+Quiero un lugar donde poder encontrar diferentes especialistas y veterinarias de turno
+Para que en algun caso de emergencia, la informacion, sea de rapido acceso
+
+Cómo persona que quiere a los animales
+Quiero un lugar donde poder denunciar el maltrato
+Para poder defender los derechos de las mascotas y hacer que se cumpla la ley
+
+Cómo una persona con tiempo acotados 
+Quiero alguien que me brinde un servcio de paseador
+Para 
+
+
+
 Ana perdio a su mascota. En la pagina tenes una seccion de mascotas perdidas donde dejar todos los datos como nombre del dueño de la mascota, nombre de la mascota, telefono, direccion, mail de contacto y fotos de la mascota con una breve reseña de como se perdio o algun detalle en particular
 
 Link para la plantilla del modelo de BBDD

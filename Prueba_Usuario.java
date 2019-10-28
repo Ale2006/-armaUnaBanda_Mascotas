@@ -21,7 +21,7 @@ public class Prueba_Usuario {
     
     
     public static boolean Iscorrecto(String cadena){
-    String expresion="^[a-zA-Z]{3,}$";
+    String expresion="^[a-zA-Z ]{3,}$";
     
         if (cadena.matches(expresion)) {
             return true;

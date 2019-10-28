@@ -24,15 +24,23 @@ Cómo propietario de una mascota que cuida su salud
 Quiero un lugar donde poder encontrar diferentes especialistas y veterinarias de turno
 Para que en algun caso de emergencia, la informacion, sea de rapido acceso
 
+Maria, se encontro ante una emergencia con su mascota, la pagina le brindo informacion sobre veterinarias 24 hs, filtrando por zona y especialidad en caso de haber.
+
+--------------------------------------------------------------------------------
 Cómo persona que quiere a los animales
 Quiero un lugar donde poder denunciar el maltrato
 Para poder defender los derechos de las mascotas y hacer que se cumpla la ley
 
+Lola, es una señora que sale todos los dias a las 9 de la mañana a barrer la vereda, por cuarto dia consecutivo, noto que un vecino, maltrata a su mascota cuando la pasea. Le gustaria tener un lugar donde poder hacer una denuncia. En la pagina para corroborar que el hecho sea verdad, pide los siguientes datos: Nombre y apellido, telefono y mail del denunciante, direccion del hecho y en lo posible de tenerlo, nombre del denunciado, foto o video de lo ocurrido y una reseña con lo que paso.
+
+---------------------------------------------------------------------------------
 Cómo una persona con tiempo acotados 
 Quiero un lugar donde encontrar diferentes servicios
 Para poder confiar en las calificaciones y reseñas de otros usuarios
 
+Mariela una chica que trabaja todo el dia, no tiene tiempo para bañar y poner coqueto a su beagle, pero tampoco quiere llevarlo a cualquier lugar, donde no sabe si le van a dar todo los cuidados que necesita y lo van a dejar como a ella le gustaria. Por eso, la pagina le brinda todos las peluquerias caninas en la zona seleccionada, con fotos y reseñas de los clientes filtrando por relevancia.
 
+-----------------------------------------------------------------------------------
 
 Link para la plantilla del modelo de BBDD
 https://docs.google.com/spreadsheets/d/1FvMGOgJbpSVvbvBB-4zaHg9ocSBKCbbuXUcYCpAh8LY/edit?usp=sharing

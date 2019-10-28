@@ -23,8 +23,8 @@ Quiero un lugar donde poder denunciar el maltrato
 Para poder defender los derechos de las mascotas y hacer que se cumpla la ley
 
 Cómo una persona con tiempo acotados 
-Quiero alguien que me brinde un servcio de paseador
-Para 
+Quiero un lugar donde encontrar diferentes servicios
+Para poder confiar en las calificaciones y reseñas de otros usuarios
 
 
 

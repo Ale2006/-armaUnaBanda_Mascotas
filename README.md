@@ -44,3 +44,5 @@ Mariela una chica que trabaja todo el dia, no tiene tiempo para bañar y poner c
 
 Link para la plantilla del modelo de BBDD
 https://docs.google.com/spreadsheets/d/1FvMGOgJbpSVvbvBB-4zaHg9ocSBKCbbuXUcYCpAh8LY/edit?usp=sharing
+Link con funciones para script de google doc
+https://sites.google.com/a/artazaromo.com/ikttic/gas?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1

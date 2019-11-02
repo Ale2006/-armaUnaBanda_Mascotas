@@ -1,0 +1,16 @@
+//--------------------------------------
+//            PATRON DE COLORES
+//---------------------------------------
+$texto:black;
+$principal:#FFA100;
+$secundario:#F8F3E9;
+
+body{
+  background: $secundario;
+
+}
+
+nav{
+  background: $principal;
+  color: #F8F3E9;
+}
